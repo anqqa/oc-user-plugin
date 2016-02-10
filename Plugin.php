@@ -21,7 +21,7 @@ class Plugin extends PluginBase
             'description' => 'RainLab.User extended for Klubitus.',
             'author'      => 'Antti Qvickström',
             'icon'        => 'icon-user',
-            'homepage'    => 'https://github.com/anqqa/klubitus-octobercms-plugins',
+            'homepage'    => 'https://github.com/anqqa/oc-user-plugin',
         ];
     }
 
